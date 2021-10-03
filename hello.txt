@@ -1,5 +1,16 @@
-Hello Git!!!  222
-222
-222
-2
-2
+# include <iostream>
+# include <cstdio>
+# include <algorithm>
+using namespace std;
+int main()
+{
+    int a,b;
+    
+    cin>>a>>b;
+    
+    cout<<a+b<<endl;
+    
+    return 0;
+
+}
+
