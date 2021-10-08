@@ -9,8 +9,11 @@ int main()
     cin>>a>>b>>c>>e;
     
     cout<<a+b+c+e<<endl;
-    
+    //从网页端更改
+    int z;
+    cin>>z;
     return 0;
 
 }
+
 
