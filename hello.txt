@@ -12,6 +12,10 @@ int main()
     //从网页端更改
     int z;
     cin>>z;
+
+    //从本地再次修改代码
+    int z1;
+    cin>>z1;
     return 0;
 
 }
